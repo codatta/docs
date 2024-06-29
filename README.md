@@ -1,6 +1,6 @@
 # Overview
 
-<figure><img src=".gitbook/assets/tagline_people.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="app/.gitbook/assets/tagline_people.png" alt=""><figcaption></figcaption></figure>
 
 ### About
 
