@@ -1,6 +1,6 @@
 # Submission
 
-![](<../../.gitbook/assets/image (43).png>)
+![](../../.gitbook/assets/submission-form.png)
 
 _Graph 1: Data Submission Page_
 
