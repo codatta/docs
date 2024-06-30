@@ -1,27 +1,38 @@
-# Overview
+![codatta logo](https://github.com/codatta/brand-kit/blob/main/logo/logotype/Codatta_Logotype_White.png)
+## Human-centric Data Confidence Protocol, for Humans, by Humans + AI
 
-<figure><img src="./app/.gitbook/assets/tagline_people.png" alt=""><figcaption></figcaption></figure>
+## Table of Content
+- [What is codatta?](https://github.com/codatta/docs/edit/main/README.md#what-is-codatta)
+- [Why codatta?](https://github.com/codatta/docs/edit/main/README.md#why-codatta)
+- [Contributing](https://github.com/codatta/docs/edit/main/README.md#contributing-how-to-makesuggest-changes-how-to-submit-issues)
+- [Joining the codatta Community](https://github.com/codatta/docs/edit/main/README.md#joining-the-codatta-community-discordtelegrammedia)
+- [Brand guideline](https://github.com/codatta/docs/edit/main/README.md#codatta-brand-guidelines)
 
-### About
+## What is codatta?
 
-<mark style="color:blue;">**codatta**</mark> is a collection of protocols and software designed to facilitate the creation and aggregation of data, enabling a set of Web3 use-cases ([examples](overview/use-cases.md)). It was developed on the foundation established by the [Microscope](https://microscopeprotocol.xyz) open-source project, which was created by leading cryptocurrency companies such as Coinbase and Circle. By leveraging a decentralized approach, it enables community collaboration on sourcing extensible scope of data to maximize data coverage and ensure data confidence.
+codatta is a blockchain metadata annotation platform that enables users to tag and label blockchain addresses with relevant information, enhancing transparency and data integrity in the crypto ecosystem. It was developed on the foundation established by the Microscope open-source project, which was created by leading cryptocurrency companies such as Coinbase and Circle.
 
-### The Issues to Address&#x20;
+## Why codatta?
 
-We aim to address significant challenges posed by centralized data systems:
+codatta aims to improve data transparency and accessibility in the blockchain space by allowing users to contribute and access metadata tags associated with blockchain addresses. This helps users make more informed decisions and enhances trust in blockchain transactions. With distinctive features of data confidence, extensibility, and public accessibility, codatta strives to guarantee high-confidence address labeling results to ensure reliability for downstream consumer applications.
 
-* **Data Silos:** Data is often locked within centralized entities, limiting accessibility and utility.
-* **Lacking Data Integrity:** In-house and centralized models lack transparency in data curation and quality verification, and suffer from a single point of failure.
-* **Inefficiency:** The traditional model of curating data is costly and involves a lot of duplicative efforts among projects relying on the same dataset.
+## Contributing (How to make/suggest changes; how to submit issues)
 
-In contrast, **codatta** aggregates and curates data from various sources, ensuring high quality and confidence through collaborative and automated mechanisms.
+If you are wondering about how to suggest changes and submit issues regarding this repository, thank you so much for helping us improve and grow!
+- Please suggest changes through [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
+- Please report any issues/typos by submitting [github issues](https://github.com/codatta/docs/issues).
 
-### Data Sourced
+## Joining the codatta Community
 
-We build systems to scale up the curation and confidence of the following data:
+- [Discord](https://discord.gg/YCESVmHEYv)
+- [Telegram](https://t.me/codatta_io)
+- [Official Website](https://codatta.io/)
+- [X](https://x.com/codatta_io)
+- [Medium](https://codatta.medium.com/)
 
-* **Account Annotation:** This data pack contains categories (such as 'cex', 'scam') and entities (such as 'Uniswap') associated with an account. These data are critical for building AML software, on-chain risk management, and trend analysis. For privacy protection, codatta will not accept entity information revealing individual ownership of accounts or addresses. This ensures privacy while enabling confidence and quality measurement computation. If you are interested in the methodology of improving data confidence, refer to the following sections.
-* **User Demographic Annotation:** This includes gender, age group, primary residence region, and other personal demographic details. These data enable personalized experiences in decentralized social and e-commerce applications. Additionally, this information can be monetized via decentralized ad delivery.
+We encourage all members to communicate expectations clearly, and report any content that might have violated our community guidelines. We would like to ask all participants to abide by our [Community Guidelines](https://docs.codatta.io/codatta/community-guidelines).
 
+## codatta Brand Guidelines
+Our logo, lockups, and brand name are essential for establishing codatta's identity and brand reputation in our community. Therefore, we do sincerely ask you to use them with respect and be very mindful of the [brand guidelines](https://github.com/codatta/brand-kit).
 
 
