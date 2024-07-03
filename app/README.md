@@ -4,7 +4,7 @@
 
 ### About
 
-<mark style="color:blue;">**codatta**</mark> is a collection of protocols and software designed to facilitate the creation and aggregation of data, enabling a set of Web3 use-cases ([examples](overview/use-cases.md)). It was developed on the foundation established by the [Microscope](https://microscopeprotocol.xyz) open-source project, which was created by leading cryptocurrency companies such as Coinbase and Circle. By leveraging a decentralized approach, it enables community collaboration on sourcing extensible scope of data to maximize data coverage and ensure data confidence.
+<mark style="color:blue;">**codatta**</mark> is a collection of protocols and software designed to facilitate the creation and aggregation of data, enabling a set of Web3 use-cases ([examples](overview/use-cases.md)). It was developed on the foundation established by the [Microscope](https://microscopeprotocol.xyz) open-source project, which was created by leading crypto companies such as Coinbase and Circle. By leveraging a decentralized approach, it enables community collaboration on sourcing extensible scope of data to maximize data coverage and ensure data confidence.
 
 ### The Issues to Address&#x20;
 
