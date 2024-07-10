@@ -13,7 +13,7 @@ How to collect: E-commerce platforms usually offer cryptocurrency payment option
 
 * **Example:** Visit the help centers of e-commerce platforms like [Shopify ](https://www.shopify.com)to learn how to use cryptocurrency for online shopping.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 ## Merchant
 

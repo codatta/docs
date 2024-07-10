@@ -64,6 +64,9 @@ How to collect: Finding the address associated with a market aggregator usually 
 How to collect: The address of the mixer currency service can usually be found on the official website of the mixer currency service provider. In addition, some mixed currency transactions may leave specific transaction patterns on blockchain. You may also identify the mixed currency service address by analyzing these patterns.
 
 * **Example 1:** Use a blockchain browser to look for [CoinJoin](https://www.coinjoins.org/) transaction patterns and identify addresses that may be involved in coin mixing services.
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
 * **Example 2:** Visit the official website of [Wasabi Wallet](https://wasabiwallet.io/) to see its mixing service address and related information.
 
 <figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>

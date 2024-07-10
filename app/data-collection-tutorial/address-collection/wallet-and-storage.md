@@ -6,7 +6,7 @@ How to collect: Cold wallets are usually stored offline and hard to track. To ob
 
 * **Example 1:** Visit [Ledger Nano S ](https://www.ledger.com/)hardware wallet
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Example 2:** Visit [Trezor ](https://trezor.io/)hardware wallet
 

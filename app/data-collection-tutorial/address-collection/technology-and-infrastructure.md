@@ -5,7 +5,16 @@
 How to collect: Find the address of the cross-chain bridging smart contract on the official website of the cross-chain project. Use a blockchain browser to query the transaction records of the relevant contracts to understand the cross-chain fund flow.
 
 * **Example 1:** Visit [Wrapped Bitcoin ](https://wbtc.network/)(WBTC) project and use [Etherscan ](https://etherscan.io/)or [PolygonScan ](https://polygonscan.com/)to check the cross-chain transaction record.
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
 * **Example 2:** Visit [Polkadot](https://polkadot.network/) and use [Polkascan ](https://explorer.polkascan.io/)or [Subscan ](https://polkadot.subscan.io/)to query cross-chain transactions.
+
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+* **Example 3:** After completing a cross-chain bridge transaction in your wallet, you can find the transaction details in the history log and record the relevant information.
+
+<figure><img src="../../.gitbook/assets/img_v3_02cl_9139a199-3b1b-484f-9cc2-5dd60fd0ed0h.jpg" alt=""><figcaption></figcaption></figure>
 
 ## **Eth 2 Staking**
 
@@ -13,7 +22,7 @@ How to collect: The addresses of Ethereum 2.0 staking can usually be found on th
 
 * **Example 1:** Visit [Ethereum 2.0 Beacon Chain](https://ethereum.org/en/roadmap/beacon-chain/)
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Example 2:** Using the Ethereum 2.0 blockchain browser to query the smart contract addresses of validators and stakers.
 
@@ -37,7 +46,7 @@ How to collect: Finding infrastructure-related addresses typically requires visi
 * **Example 1:** [Ethereum ](https://etherscan.io/)Infrastructure Smart Contracts: Visit Ethereum's official website to find its infrastructure smart contract address.
 * **Example 2:** [IPFS ](https://ipfs.tech/)Infrastructure Smart Contracts: Find the official website of the IPFS project for its smart contract address.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Layer 2 Extension
 
@@ -45,7 +54,7 @@ How to collect: Finding addresses related to layer 2 extensions typically requir
 
 * **Example 1:** [Optimistic Ethereum ](https://optimistic.etherscan.io/)Smart Contracts: Visit the official website of Optimistic Ethereum to find its second layer extension smart contract address.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Example 2:** [zkSync Smart Contracts:](https://docs.zksync.io/) Find the official website of the zkSync project to see its Layer 2 extension smart contract address.
 
@@ -55,7 +64,7 @@ How to collect: To find the address of the MEV Bot, you can refer to the Lightni
 
 * **Example 1:** Visit the official [Flashbots](https://www.flashbots.net/) website for information about the Lightning Network MEV Bot.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Example 2:** Find blockchain research tools like [MEV-Explore](https://explore.flashbots.net/) to understand the activities of the MEV Bot.
 
@@ -65,11 +74,11 @@ How to collect: The mining pool address can usually be found on the mining pool'
 
 * **Example 1:** Visit the official website of [F2Pool](https://f2pool.io/mining/guides/how-to-mine-bitcoin/) to see its mining pool address and the mining services it offers.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Example 2:** Search for the [Ethermine](https://ethermine.org/) pool in the blockchain browser to see its related information and mining address.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Multichain**
 
@@ -84,11 +93,11 @@ How to collect: Familiar with the address of an Oracle often requires looking at
 
 * **Example 1:** Check [Chainlink](https://chain.link/education/blockchain-oracles)'s official documentation to learn how to use its Oracle service and find relevant address and contract information.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Example 2:** Find the oracle address of the [Band Protocol](https://www.bandprotocol.com/) and view its documentation for information about the data source.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Proxy**
 

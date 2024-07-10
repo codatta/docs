@@ -12,7 +12,12 @@ How to collect: Use the query function of blockchain browsers (such as [Ethersca
 How to collect: Visit the official website of the DeFi platform to learn about the address of smart contracts for asset management. Use a blockchain browser to search for transaction records of relevant contracts to view fund flow.
 
 * **Example 1:** Visit the official website of [Compound Finance ](https://compound.finance/)to find the cToken smart contract address and use [Etherscan ](https://etherscan.io/)or [BscScan ](https://bscscan.com/)to view the relevant transaction records.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 * **Example 2:** Visit the [Yearn Finance](https://yearn.fi/)'s official website and look up the Vault smart contract address, and use the blockchain browser to check the transaction history of the Vault.
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Auction**
 
