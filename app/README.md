@@ -1,10 +1,10 @@
 # Overview
 
-<figure><img src=".gitbook/assets/tagline_people.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Frame 1321319795.png" alt=""><figcaption></figcaption></figure>
 
 ### About
 
-<mark style="color:blue;">**codatta**</mark> is a collection of protocols and software designed to facilitate the creation and aggregation of data, enabling a set of Web3 use-cases ([examples](overview/use-cases.md)). It was developed on the foundation established by the [Microscope](https://microscopeprotocol.xyz) open-source project, which was created by leading crypto companies such as Coinbase and Circle. By leveraging a decentralized approach, it enables community collaboration on sourcing extensible scope of data to maximize data coverage and ensure data confidence.
+Codatta is a universal annotation and labeling platform that turns your intelligence into AI. Our mission is to lower the barrier for AI development teams by providing inclusive access to quality data, facilitating AI advancement, and to empower individuals to contribute to AI development and enjoy long-lasting rewards for their critical contributions. We tackle challenges across various verticals, including crypto (account and user annotation), healthcare, and robotics. Our user-contributed data is on the right track to commercialization in areas like web3 ads, AML, and healthcare.
 
 ### The Issues to Address&#x20;
 
