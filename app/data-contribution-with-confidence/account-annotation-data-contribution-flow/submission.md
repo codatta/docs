@@ -4,10 +4,13 @@
 
 _Graph 1: Data Submission Page_
 
-![](<../../.gitbook/assets/image (44).png>)
+<div align="left">
 
-_Graph 2: Verification Success Page_\
+<figure><img src="../../.gitbook/assets/image (2).png" alt="seeeeee " width="375"><figcaption><p> </p></figcaption></figure>
 
+</div>
+
+_Graph 2: Verification Success Page_
 
 Data submission is one of the important ways for you to obtain points. We hope that when you use Web3 services or browse information, you may contribute the metadata of known and valid blockchain addresses to our platform. The interface for data submission is shown in Figure 1. The first area is metadata information, including:
 

@@ -22,7 +22,7 @@ How to collect: The addresses of Ethereum 2.0 staking can usually be found on th
 
 * **Example 1:** Visit [Ethereum 2.0 Beacon Chain](https://ethereum.org/en/roadmap/beacon-chain/)
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Example 2:** Using the Ethereum 2.0 blockchain browser to query the smart contract addresses of validators and stakers.
 
@@ -46,7 +46,7 @@ How to collect: Finding infrastructure-related addresses typically requires visi
 * **Example 1:** [Ethereum ](https://etherscan.io/)Infrastructure Smart Contracts: Visit Ethereum's official website to find its infrastructure smart contract address.
 * **Example 2:** [IPFS ](https://ipfs.tech/)Infrastructure Smart Contracts: Find the official website of the IPFS project for its smart contract address.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Layer 2 Extension
 
