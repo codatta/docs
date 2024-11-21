@@ -43,4 +43,5 @@
   * [Task with Known Address](data-collection-tutorial/task-with-known-address.md)
 * [FAQs](faqs.md)
 * [Community Guidelines](community-guidelines.md)
+* [About XnY](about-xny.md)
 * [Risk Disclaimer](risk-disclaimer.md)
