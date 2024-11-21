@@ -4,7 +4,7 @@
 
 ### About
 
-Codatta is a universal annotation and labeling platform that turns your intelligence into AI. Our mission is to lower the barrier for AI development teams by providing inclusive access to quality data, facilitating AI advancement, and to empower individuals to contribute to AI development and enjoy long-lasting rewards for their critical contributions. We tackle challenges across various verticals, including crypto (account and user annotation), healthcare, and robotics. Our user-contributed data is on the right track to commercialization in areas like web3 ads, AML, and healthcare.
+Codatta is a decentralized network connecting AI developers with Data Creators to Co-Train AGI and it is powered by [XnY](https://docs.xny.ai/xny). Since our launch in April 2024, we have attracted over 200,000+ users, with growing demand across our key sectors: Digital Assets, Healthcare, Robotics, and AI Ecommerce —highlighting the need for high-quality frontier data (X-data + Y-data).
 
 ### The Issues to Address&#x20;
 
