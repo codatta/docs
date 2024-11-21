@@ -2,7 +2,7 @@
 
 ### Overview
 
-The user settings feature allows you to customize and manage account details to enhance your experience with codatta. This guide will walk you through changing your avatar, display name, associated email or wallet address, and turning off notifications on or off.
+The user settings feature allows you to customize and manage account details to enhance your experience with Codatta. This guide will walk you through changing your avatar, display name, associated email or wallet address, and turning off notifications on or off.
 
 ### Accessing User Settings
 

@@ -2,7 +2,7 @@
 
 ### Overview
 
-Welcome to codatta! In this guide, we'll walk you through the process of registering and logging in. codatta's registration and login are similar to those of many Web3 products. We will automatically create an account for new users. Whether you're using a Web3 wallet or an email, we make it seamless and straightforward.
+Welcome to Codatta! In this guide, we'll walk you through the process of registering and logging in. Codatta's registration and login are similar to those of many Web3 products. We will automatically create an account for new users. Whether you're using a Web3 wallet or an email, we make it seamless and straightforward.
 
 ### Supported Login Methods
 

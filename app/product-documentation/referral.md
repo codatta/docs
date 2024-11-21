@@ -2,7 +2,7 @@
 
 ### Overview
 
-Our referral feature allows you to earn rewards by inviting your friends to join codatta. This guide will explain how to find and share your referral link, how new users can use the referral link or code, and how you can track your referral history. Additionally, it outlines the terms of use for the referral program.
+Our referral feature allows you to earn rewards by inviting your friends to join Codatta. This guide will explain how to find and share your referral link, how new users can use the referral link or code, and how you can track your referral history. Additionally, it outlines the terms of use for the referral program.
 
 ### How to Find Your Referral Link
 
