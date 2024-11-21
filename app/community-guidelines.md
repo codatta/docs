@@ -1,6 +1,6 @@
 # Community Guidelines
 
-Welcome to join our community! codatta is a collection of human-centric data confidence protocols, and this community is human-centered as well, providing an interactive and friendly environment for every member. By joining us, all community members are expected to show respect and courtesy to others. We encourage all members to communicate expectations clearly, and report any content that might have violated our community guidelines. We would like to ask all participants to abide by our guidelines listed below:
+Welcome to join our community! Codatta is a collection of human-centric data confidence protocols, and this community is human-centered as well, providing an interactive and friendly environment for every member. By joining us, all community members are expected to show respect and courtesy to others. We encourage all members to communicate expectations clearly, and report any content that might have violated our community guidelines. We would like to ask all participants to abide by our guidelines listed below:
 
 ### Community Guidelines
 
