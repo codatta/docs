@@ -1,6 +1,6 @@
 # How to Improve Your Bounty Acceptance Rate
 
-Participating in bounty programs within codatta can be highly rewarding if you ensure your submissions meet the necessary standards. Here are key strategies to enhance your acceptance rate, focusing on accuracy, completeness, and collaborative feedback.\
+Participating in bounty programs within Codatta can be highly rewarding if you ensure your submissions meet the necessary standards. Here are key strategies to enhance your acceptance rate, focusing on accuracy, completeness, and collaborative feedback.\
 
 
 1. Accuracy: Ensuring Correct Data Submission
