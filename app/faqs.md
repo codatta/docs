@@ -33,12 +33,12 @@
 
 <summary>Account Related Questions</summary>
 
-* **How do I create an account on codatta?**
-  * To create an account on codatta, visit the codatta official website: [codatta.io](http://codatta.io), and follow the registration prompts. For successful registration, you may need an invitation code which can be found in our Discord community: #🙌｜invitation-code channel.We support a wide range of Web3 wallets and email logins. Choose your preferred method to get started.
+* **How do I create an account on Codatta?**
+  * To create an account on Codatta, visit the Codatta official website: [codatta.io](http://codatta.io), and follow the registration prompts. For successful registration, you may need an invitation code which can be found in our Discord community: #🙌｜invitation-code channel.We support a wide range of Web3 wallets and email logins. Choose your preferred method to get started.
 
 <!---->
 
-* **Can I change my account details on codatta?**
+* **Can I change my account details on Codatta?**
   * Yes, users can usually bound their social account, such as email address, wallet address, X, and Discord through the user settings.
 
 <!---->
@@ -62,12 +62,12 @@
 
 <summary>Data Submission Related Questions</summary>
 
-* #### How do I submit data in codatta?
-  * To submit data in codatta, navigate to the submission section of the platform and follow the prompts to input the relevant information. This may include details about the blockchain address, associated entity, and evidence supporting the submission.
+* #### How do I submit data in Codatta?
+  * To submit data in Codatta, navigate to the submission section of the platform and follow the prompts to input the relevant information. This may include details about the blockchain address, associated entity, and evidence supporting the submission.
 
 <!---->
 
-* #### What types of data can I submit in codatta?
+* #### What types of data can I submit in Codatta?
   * Users can submit various types of metadata related to blockchain addresses, including entity, Network, Address, Entity, Category and Evidence. The goal is to provide context and insights into the entities behind the addresses.
 
 <!---->
@@ -97,12 +97,12 @@
 
 <summary>Bounty Related Questions</summary>
 
-* #### What is Bounty Hunting in codatta?
-  * Bounty Hunting in codatta involves tasks issued to the community to contribute metadata tags, and complete specific objectives related to blockchain addresses and entities. Participants are typically rewarded around 200 to 3000 according to the data quality and their contributions.
+* #### What is Bounty Hunting in Codatta?
+  * Bounty Hunting in Codatta involves tasks issued to the community to contribute metadata tags, and complete specific objectives related to blockchain addresses and entities. Participants are typically rewarded around 200 to 3000 according to the data quality and their contributions.
 
 <!---->
 
-* #### How can I participate in Bounty Hunting in codatta?
+* #### How can I participate in Bounty Hunting in Codatta?
   * Users can participate in Bounty Hunting by joining active bounty campaigns or weekly challenges available on the platform. They may need to complete tasks such as verifying metadata tags, providing evidence, or contributing new data to earn rewards.
 
 <!---->
@@ -116,18 +116,18 @@
 
 <summary>Reward and Quest-Related Questions</summary>
 
-* #### How are rewards calculated in codatta?
+* #### How are rewards calculated in Codatta?
   * Rewards in codatta are often based on the quality and quantity of users' contributions. This may include factors such as the accuracy of submitted data, the level of verification provided, or the completion of specific tasks.
 
 <!---->
 
-* #### Where can I check my rewards in codatta?
+* #### Where can I check my rewards in Codatta?
   * Users can typically view their rewards or points balance on the Home page for submission and validation rewards. For referral rewards, users can check in the referral section.
 
 <!---->
 
-* #### How long does it take to receive rewards in codatta?
-  * The time it takes to receive rewards in codatta can vary depending on factors such as the type of activity completed, the verification process involved, and the platform's reward distribution schedule. Generally, rewards are credited to users' accounts instantly after completing eligible tasks.
+* #### How long does it take to receive rewards in Codatta?
+  * The time it takes to receive rewards in Codatta can vary depending on factors such as the type of activity completed, the verification process involved, and the platform's reward distribution schedule. Generally, rewards are credited to users' accounts instantly after completing eligible tasks.
 
 <!---->
 
@@ -146,7 +146,7 @@
 <!---->
 
 * **How to improve my reputation level?**
-  * The Reputation System within the codatta Protocol evaluates a contributor's reputation score across four major dimensions:
+  * The Reputation System within the Codatta Protocol evaluates a contributor's reputation score across four major dimensions:
     * **Total Value of Staked Assets**: The amount of assets you have staked in the protocol.
     * **Data Contribution**: The volume and quality of your data submissions, including submission validation bounties.
     * **Annotation Skill Level**: Indicated by results of quizzes and tests.
@@ -170,7 +170,7 @@
 <!---->
 
 * **How many points can I get from a referral?**
-  * You and your referee will each receive 100 codatta points once the new user completes the sign-up process. There are no limits on how many points you can earn from referrals at the moment. However, codatta reserves the right to finalize referral points rewards.
+  * You and your referee will each receive 100 Codatta points once the new user completes the sign-up process. There are no limits on how many points you can earn from referrals at the moment. However, Codatta reserves the right to finalize referral points rewards.
 
 <!---->
 
@@ -184,15 +184,15 @@
 <summary>Other Questions</summary>
 
 * **What can I do if I encounter bugs?**
-  * If you encounter any bugs or have suggestions while using codatta, please submit a ticket to our Discord community through ⁠_#📪｜ticket-support_ channel. To help us locate and resolve the issue efficiently, please provide the following information in your ticket:
+  * If you encounter any bugs or have suggestions while using Codatta, please submit a ticket to our Discord community through ⁠_#📪｜ticket-support_ channel. To help us locate and resolve the issue efficiently, please provide the following information in your ticket:
     1. Account information (sign-in email or wallet address)
     2. The approximate time when the problem occurred
     3. A detailed description of the situation, including your actions and the page you were on when the bug occurred. Please include any relevant screenshots or screen recordings.
-  * To further optimize the codatta Protocol and enhance your user experience, we have launched the Bug Bounty Program. **5000 Points** each verified bug/adopted suggestion.
+  * To further optimize the Codatta Protocol and enhance your user experience, we have launched the Bug Bounty Program. **5000 Points** each verified bug/adopted suggestion.
 
 <!---->
 
 * **Is there going to be an "airdrop"?**
-  * Community creates value. At codatta, the community's role in sourcing annotation data is crucial, making this dependency more significant than for other protocols. Therefore, it is essential that the community receives a substantial portion of the token allocation. This allocation may be based on users' points, reputation, possession of platform NFTs, and overall engagement in the community. More details regarding this distribution will be announced soon.
+  * Community creates value. At Codatta, the community's role in sourcing annotation data is crucial, making this dependency more significant than for other protocols. Therefore, it is essential that the community receives a substantial portion of the token allocation. This allocation may be based on users' points, reputation, possession of platform NFTs, and overall engagement in the community. More details regarding this distribution will be announced soon.
 
 </details>
