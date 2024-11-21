@@ -3,6 +3,7 @@
 * [Overview](README.md)
   * [Use Cases](overview/use-cases.md)
   * [Features](overview/features.md)
+* [About XnY](about-xny.md)
 * [Data Contribution with Confidence](data-contribution-with-confidence/README.md)
   * [Account Annotation: Data Contribution Flow](data-contribution-with-confidence/account-annotation-data-contribution-flow/README.md)
     * [Submission](data-contribution-with-confidence/account-annotation-data-contribution-flow/submission.md)
@@ -43,5 +44,4 @@
   * [Task with Known Address](data-collection-tutorial/task-with-known-address.md)
 * [FAQs](faqs.md)
 * [Community Guidelines](community-guidelines.md)
-* [About XnY](about-xny.md)
 * [Risk Disclaimer](risk-disclaimer.md)

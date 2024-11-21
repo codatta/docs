@@ -1,6 +1,8 @@
 # About XnY
 
-#### **Overview:** XnY is a blockchain network designed to revolutionize the data economy by addressing inefficiencies in AI data markets and fostering an open, decentralized ecosystem. Data, the cornerstone of AI and machine learning, is critical for building both domain-specific AIs and advancing toward Artificial General Intelligence (AGI). However, current systems rely on open internet data, which neglects fair compensation for data creators, or traditional outsourcing models that heavily favor intermediaries. This inefficiency hinders innovation and limits access to valuable data for smaller developers.
+#### &#x20;Overview:
+
+XnY is a blockchain network designed to revolutionize the data economy by addressing inefficiencies in AI data markets and fostering an open, decentralized ecosystem. Data, the cornerstone of AI and machine learning, is critical for building both domain-specific AIs and advancing toward Artificial General Intelligence (AGI). However, current systems rely on open internet data, which neglects fair compensation for data creators, or traditional outsourcing models that heavily favor intermediaries. This inefficiency hinders innovation and limits access to valuable data for smaller developers.
 
 XnY provides a new model for data creation, sharing, and utilization by encapsulating **AI data units** (features and annotations) into fundamental building blocks. The blockchain network offers critical features like **data rights management, traceability, quality validation, and privacy protection.** It enables developers to create innovative data products, including exchanges, crowdsourcing platforms, and end-to-end pipelines, empowering a fair and efficient data marketplace. By directly rewarding data creators, XnY accelerates the development of AI applications and AGI while promoting equitable data ownership and use.
 
