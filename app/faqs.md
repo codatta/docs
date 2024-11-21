@@ -4,28 +4,28 @@
 
 <summary>General Questions</summary>
 
-* **What is codatta**?
-  * codatta is a blockchain metadata annotation platform that enables users to tag and label blockchain addresses with relevant information, enhancing transparency and data integrity in the crypto ecosystem.
+* **What is Codatta**?
+  * Codatta is a blockchain metadata annotation platform that enables users to tag and label blockchain addresses with relevant information, enhancing transparency and data integrity in the crypto ecosystem.
 
 <!---->
 
-* #### How does codatta work?
-  * Users can submit metadata tags to annotate blockchain addresses through the codatta Protocol. These tags provide contextual information about the entities behind the addresses, such as exchanges, wallets, or projects.
+* #### How does Codatta work?
+  * Users can submit metadata tags to annotate blockchain addresses through the Codatta Protocol. These tags provide contextual information about the entities behind the addresses, such as exchanges, wallets, or projects.
 
 <!---->
 
-* #### What is the purpose of using codatta?
-  * codatta aims to improve data transparency and accessibility in the blockchain space by allowing users to contribute and access metadata tags associated with blockchain addresses. This helps users make more informed decisions and enhances trust in blockchain transactions.
+* #### What is the purpose of using Codatta?
+  * Codatta aims to improve data transparency and accessibility in the blockchain space by allowing users to contribute and access metadata tags associated with blockchain addresses. This helps users make more informed decisions and enhances trust in blockchain transactions.
 
 <!---->
 
-* #### Is codatta's data reliable?
-  * codatta employs a decentralized approach to metadata annotation, relying on community contributions to verify and validate metadata tags. Based on AI and LLM capabilities, the quality of submitted data will be maximally ensured. Simultaneously, through algorithms and economic mechanisms, we strive to guarantee high-confidence address labeling results to ensure reliability for downstream consumer applications. While codatta strives to maintain data accuracy, users should conduct their own research and due diligence before relying solely on codatta's metadata.
+* #### Is Codatta's data reliable?
+  * Codatta employs a decentralized approach to metadata annotation, relying on community contributions to verify and validate metadata tags. Based on AI and LLM capabilities, the quality of submitted data will be maximally ensured. Simultaneously, through algorithms and economic mechanisms, we strive to guarantee high-confidence address labeling results to ensure reliability for downstream consumer applications. While codatta strives to maintain data accuracy, users should conduct their own research and due diligence before relying solely on codatta's metadata.
 
 <!---->
 
-* #### Is codatta's platform secure?
-  * codatta prioritizes security and data privacy, implementing measures to safeguard user information and prevent unauthorized access. Additionally, codatta employs blockchain technology to ensure data immutability and integrity.
+* #### Is Codatta's platform secure?
+  * Codatta prioritizes security and data privacy, implementing measures to safeguard user information and prevent unauthorized access. Additionally, Codatta employs blockchain technology to ensure data immutability and integrity.
 
 </details>
 
