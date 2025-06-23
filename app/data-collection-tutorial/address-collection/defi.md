@@ -2,7 +2,7 @@
 
 ## **DAO (Decentralized Autonomous Organization)**
 
-How to collect**:** Addresses of Decentralized Autonomous Organizations are usually included in the project's smart contract. To find these addresses, check the project's white paper, official website, or smart contract source code.
+How to collec&#x74;**:** Addresses of Decentralized Autonomous Organizations are usually included in the project's smart contract. To find these addresses, check the project's white paper, official website, or smart contract source code.
 
 * **Example 1:** Read [MakerDAO'](https://makerdao.com/)s whitepaper to learn about its smart contract address and use [Etherscan ](https://etherscan.io/)to view related transaction records.
 
@@ -59,11 +59,7 @@ How to collect: To find the address related to mobile staking, you usually need 
 
 * **Example 2:** Find the official website of the [Polkadot](https://polkadot.network/) project to see its mobile staking smart contract address.
 
-<div data-full-width="false">
-
-<figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div data-full-width="false"><figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure></div>
 
 ## **Vault**
 

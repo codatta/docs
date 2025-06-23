@@ -1,6 +1,6 @@
 # Overview
 
-<figure><img src=".gitbook/assets/Frame 2085665045.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Codatta.jpeg" alt=""><figcaption></figcaption></figure>
 
 ### About
 
