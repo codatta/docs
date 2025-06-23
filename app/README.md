@@ -4,7 +4,7 @@
 
 ### About
 
-Codatta is a decentralized network connecting AI developers with Data Creators to Co-Train AGI and it is powered by [XnY](https://docs.xny.ai/xny). Since our launch in April 2024, we have attracted over 200,000+ users, with growing demand across our key sectors: Digital Assets, Healthcare, Robotics, and AI Ecommerce —highlighting the need for high-quality frontier data (X-data + Y-data).
+Codatta is an open, decentralized, multi-chain protocol uniting blockchain-based data infrastructure with a collaborative network of human contributors and specialized AI agents. Contributors and knowledge backers gain the opportunity to earn perpetual royalties from AI innovations powered by datasets they collectively own, transforming individual knowledge into lasting digital assets and ongoing rewards.
 
 ### The Issues to Address&#x20;
 
