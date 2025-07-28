@@ -42,7 +42,7 @@
     * [E-Commerce](data-collection-tutorial/address-collection/e-commerce.md)
     * [Other](data-collection-tutorial/address-collection/other.md)
   * [Task with Known Address](data-collection-tutorial/task-with-known-address.md)
+* [Tokenomics](tokenomics.md)
 * [FAQs](faqs.md)
 * [Community Guidelines](community-guidelines.md)
 * [Risk Disclaimer](risk-disclaimer.md)
-* [Tokenomics](tokenomics.md)
