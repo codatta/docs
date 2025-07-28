@@ -45,3 +45,4 @@
 * [FAQs](faqs.md)
 * [Community Guidelines](community-guidelines.md)
 * [Risk Disclaimer](risk-disclaimer.md)
+* [Tokenomics](tokenomics.md)
